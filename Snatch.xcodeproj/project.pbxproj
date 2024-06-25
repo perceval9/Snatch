@@ -11,6 +11,11 @@
 		B60B73392C18805D004C2D39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60B73382C18805D004C2D39 /* ContentView.swift */; };
 		B60B733B2C188060004C2D39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B60B733A2C188060004C2D39 /* Assets.xcassets */; };
 		B60B733E2C188060004C2D39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B60B733D2C188060004C2D39 /* Preview Assets.xcassets */; };
+		B61FE7272C1FA5A600185ABD /* ExerciseInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B61FE7262C1FA5A600185ABD /* ExerciseInfo.swift */; };
+		B65E51052C1B9DE500EDEB81 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65E51042C1B9DE500EDEB81 /* ListView.swift */; };
+		B65E51092C1F507F00EDEB81 /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65E51082C1F507F00EDEB81 /* Exercise.swift */; };
+		B65E510B2C1F50E500EDEB81 /* ExerciseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65E510A2C1F50E500EDEB81 /* ExerciseService.swift */; };
+		B6A7D0802C23ABBB00D8E6E3 /* ExerciseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A7D07F2C23ABBB00D8E6E3 /* ExerciseList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		B60B73382C18805D004C2D39 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B60B733A2C188060004C2D39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B60B733D2C188060004C2D39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B61FE7262C1FA5A600185ABD /* ExerciseInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseInfo.swift; sourceTree = "<group>"; };
+		B65E51042C1B9DE500EDEB81 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		B65E51082C1F507F00EDEB81 /* Exercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise.swift; sourceTree = "<group>"; };
+		B65E510A2C1F50E500EDEB81 /* ExerciseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseService.swift; sourceTree = "<group>"; };
+		B6A7D07F2C23ABBB00D8E6E3 /* ExerciseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +62,13 @@
 			isa = PBXGroup;
 			children = (
 				B60B73362C18805D004C2D39 /* SnatchApp.swift */,
-				B60B73382C18805D004C2D39 /* ContentView.swift */,
+				B6A7D07F2C23ABBB00D8E6E3 /* ExerciseList.swift */,
+				B65E51042C1B9DE500EDEB81 /* ListView.swift */,
+				B65E51082C1F507F00EDEB81 /* Exercise.swift */,
+				B65E510A2C1F50E500EDEB81 /* ExerciseService.swift */,
+				B61FE7262C1FA5A600185ABD /* ExerciseInfo.swift */,
 				B60B733A2C188060004C2D39 /* Assets.xcassets */,
+				B60B73382C18805D004C2D39 /* ContentView.swift */,
 				B60B733C2C188060004C2D39 /* Preview Content */,
 			);
 			path = Snatch;
@@ -137,8 +152,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B65E51092C1F507F00EDEB81 /* Exercise.swift in Sources */,
+				B65E510B2C1F50E500EDEB81 /* ExerciseService.swift in Sources */,
 				B60B73392C18805D004C2D39 /* ContentView.swift in Sources */,
+				B6A7D0802C23ABBB00D8E6E3 /* ExerciseList.swift in Sources */,
+				B65E51052C1B9DE500EDEB81 /* ListView.swift in Sources */,
 				B60B73372C18805D004C2D39 /* SnatchApp.swift in Sources */,
+				B61FE7272C1FA5A600185ABD /* ExerciseInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +292,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Snatch/Preview Content\"";
+				DEVELOPMENT_TEAM = N647M8D8UW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -300,6 +321,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Snatch/Preview Content\"";
+				DEVELOPMENT_TEAM = N647M8D8UW;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
