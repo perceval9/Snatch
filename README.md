@@ -1,8 +1,8 @@
 # 🏋️‍♂️ **Snatch**
 
 <div style="display: flex; justify-content: space-around;">
-<img src="https://github.com/perceval9/Snatch/blob/main/Snatch_Workout.png" alt="Snatch Workout" width="300"/>
-<img src="https://github.com/perceval9/Snatch/blob/main/Workout_Page.png" alt="Workout Page" width="300"/>
+<img src="https://github.com/perceval9/Snatch/blob/main/Snatch_Workout.png" alt="Snatch Workout" height="500"/>
+<img src="https://github.com/perceval9/Snatch/blob/main/Workout_Page.png" alt="Workout Page" width="500"/>
 </div>
 
 ## 🎯 **Overview**
