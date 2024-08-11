@@ -1,5 +1,7 @@
 # 🏋️‍♂️ **Snatch**
 
+![Snatch App](https://github.com/perceval9/Snatch/blob/main/images/Snatch_Workout.png)
+
 ## 🎯 **Overview**
 
 Welcome to **Snatch**! This application is designed to be a comprehensive and user-friendly tool for anyone passionate about weightlifting, powerlifting, CrossFit, or general strength training. Whether you're a beginner or an experienced athlete, Snatch aims to connect you with like-minded individuals while helping you track your progress, manage your workouts, and achieve your fitness goals.
