@@ -1,6 +1,6 @@
 # 🏋️‍♂️ **Snatch**
 
-![Snatch App](https://github.com/perceval9/Snatch/blob/main/images/Snatch_Workout.png)
+![Snatch Workout](https://github.com/perceval9/Snatch/blob/main/images/Snatch_Workout.png)
 
 ## 🎯 **Overview**
 
